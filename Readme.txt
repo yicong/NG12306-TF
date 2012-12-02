@@ -10,7 +10,8 @@
 		|01_Requirement：	需求文档（Brd,Prd）	
 		|02_Architecture：	系统整体架构		
 		|03_System Design:	子系统设计文档		
-		|04_Interface Contract：系统接口契约文档	
+		|04_Interface Contract：系统接口契约文档
+		|05_Project Progress:	项目进度	
 	------------------------------------------------------
 	TF-InfomationCollector：	访问请求信息采集器
 	------------------------------------------------------
