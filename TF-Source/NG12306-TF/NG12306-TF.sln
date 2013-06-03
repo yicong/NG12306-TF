@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NG12306-TF", "NG12306-TF.vcproj", "{2E3FA671-25C9-48A0-8255-6E6119AC0104}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UtilityLib", "UtilityLib\UtilityLib.vcproj", "{F8EDB7AA-C757-4E9B-8A0D-7D08C47B0FDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NG12306-TFDll", "NG12306-TFDll\NG12306-TFDll.vcproj", "{01652F2C-EA6C-4ABE-A044-B3903510EE7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +17,14 @@ Global
 		{2E3FA671-25C9-48A0-8255-6E6119AC0104}.Debug|Win32.Build.0 = Debug|Win32
 		{2E3FA671-25C9-48A0-8255-6E6119AC0104}.Release|Win32.ActiveCfg = Release|Win32
 		{2E3FA671-25C9-48A0-8255-6E6119AC0104}.Release|Win32.Build.0 = Release|Win32
+		{F8EDB7AA-C757-4E9B-8A0D-7D08C47B0FDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8EDB7AA-C757-4E9B-8A0D-7D08C47B0FDD}.Debug|Win32.Build.0 = Debug|Win32
+		{F8EDB7AA-C757-4E9B-8A0D-7D08C47B0FDD}.Release|Win32.ActiveCfg = Release|Win32
+		{F8EDB7AA-C757-4E9B-8A0D-7D08C47B0FDD}.Release|Win32.Build.0 = Release|Win32
+		{01652F2C-EA6C-4ABE-A044-B3903510EE7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01652F2C-EA6C-4ABE-A044-B3903510EE7C}.Debug|Win32.Build.0 = Debug|Win32
+		{01652F2C-EA6C-4ABE-A044-B3903510EE7C}.Release|Win32.ActiveCfg = Release|Win32
+		{01652F2C-EA6C-4ABE-A044-B3903510EE7C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
